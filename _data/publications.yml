@@ -1,0 +1,80 @@
+index:
+  - id: "piper"
+    title: "Piper: Towards Flexible Pipeline Parallelism for PyTorch"
+    authors: ["Megan Frisella", "Arvin Oentoro", "Xiangyu Gao", "Gilbert Bernstein", "Stephanie Wang"]
+    venue: "Practical Adoption Challenges of ML for Systems (PACMI)"
+    year: 2025
+    topics: ["Distributed Training"]
+    pdf: "https://dl.acm.org/doi/10.1145/3766882.3767187"
+
+  - id: "liteasr"
+    title: "LiteASR: Efficient Automatic Speech Recognition with Low-Rank Approximation"
+    authors: ["Keisuke Kamahori", "Jungo Kasai", "Noriyuki Kojima", "Baris Kasikci"]
+    venue: "Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+    year: 2025
+    topics: ["Efficient ML"]
+    pdf: "https://arxiv.org/abs/2502.20583"
+    code: "https://github.com/efeslab/LiteASR"
+
+  - id: "flashinfer"
+    title: "FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving"
+    authors: ["Zihao Ye", "Lequn Chen", "Ruihang Lai", "Wuwei Lin", "Yineng Zhang", "Stephanie Wang", "Tianqi Chen", "Baris Kasikci", "Vinod Grover", "Arvind Krishnamurthy", "Luis Ceze"]
+    venue: "Annual Conference on Machine Learning and Systems (MLSys)"
+    year: 2025
+    topics: ["LLM Serving"]
+    pdf: "https://arxiv.org/abs/2501.01005"
+    code: "https://github.com/flashinfer-ai/flashinfer"
+    link: "https://flashinfer.ai/2024/12/16/flashinfer-v02-release.html"
+    award: "Best Paper Award"
+
+  - id: "telerag"
+    title: "TeleRAG: Efficient Retrieval-Augmented Generation Inference with Lookahead Retrieval"
+    authors: ["Chien-Yu Lin", "Keisuke Kamahori", "Yiyu Liu", "Xiaoxiang Shi", "Madhav Kashyap", "Yile Gu", "Rulin Shao", "Zihao Ye", "Kan Zhu", "Stephanie Wang", "Arvind Krishnamurthy", "Rohan Kadekodi", "Luis Ceze", "Baris Kasikci"]
+    venue: "arXiv preprint"
+    year: 2025
+    topics: ["LLM Serving"]
+    pdf: "https://arxiv.org/pdf/2502.20969"
+
+  - id: "tactic"
+    title: "Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs"
+    authors: ["Kan Zhu", "Tian Tang", "Qinyu Xu", "Yile Gu", "Zhichen Zeng", "Rohan Kadekodi", "Liangyu Zhao", "Ang Li", "Arvind Krishnamurthy", "Baris Kasikci"]
+    venue: "arXiv preprint"
+    year: 2025
+    topics: ["LLM Serving"]
+    pdf: "https://arxiv.org/pdf/2502.12216"
+
+  - id: "nanoflow"
+    title: "NanoFlow: Towards Optimal Large Language Model Serving Throughput"
+    authors: ["Kan Zhu", "Yufei Gao", "Yilong Zhao", "Liangyu Zhao", "Gefei Zuo", "Yile Gu", "Dedong Xie", "Tian Tang", "Qinyu Xu", "Zihao Ye", "Keisuke Kamahori", "Chien-Yu Lin", "Ziren Wang", "Stephanie Wang", "Arvind Krishnamurthy", "Baris Kasikci"]
+    venue: "Symposium on Operating Systems Design and Implementation (OSDI)"
+    year: 2025
+    topics: ["LLM Serving"]
+    pdf: "https://arxiv.org/abs/2408.12757v1"
+    code: "https://github.com/efeslab/Nanoflow"
+
+  - id: "fiddler"
+    title: "Fiddler: CPU-GPU Orchestration for Fast Inference of Mixture-of-Experts Models"
+    authors: ["Keisuke Kamahori", "Tian Tang", "Yile Gu", "Kan Zhu", "Baris Kasikci"]
+    venue: "International Conference on Learning Representations (ICLR)"
+    year: 2025
+    topics: ["LLM Serving"]
+    pdf: "https://arxiv.org/pdf/2402.07033"
+    code: "https://github.com/efeslab/fiddler"
+
+  - id: "quest"
+    title: "Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference"
+    authors: ["Jiaming Tang", "Yilong Zhao", "Kan Zhu", "Guangxuan Xiao", "Baris Kasikci", "Song Han"]
+    venue: "International Conference on Machine Learning (ICML)"
+    year: 2024
+    topics: ["LLM Serving"]
+    pdf: "https://arxiv.org/pdf/2406.10774"
+    code: "https://github.com/mit-han-lab/Quest"
+
+  - id: "atom"
+    title: "Atom: Low-bit Quantization for Efficient and Accurate LLM Serving"
+    authors: ["Yilong Zhao", "Chien-Yu Lin", "Kan Zhu", "Zihao Ye", "Lequn Chen", "Size Zheng", "Luis Ceze", "Arvind Krishnamurthy", "Tianqi Chen", "Baris Kasikci"]
+    venue: "Annual Conference on Machine Learning and Systems (MLSys)"
+    year: 2024
+    topics: ["LLM Serving"]
+    pdf: "https://arxiv.org/pdf/2310.19102"
+    code: "https://github.com/efeslab/Atom"

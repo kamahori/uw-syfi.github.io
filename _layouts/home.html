@@ -1,0 +1,109 @@
+---
+layout: default
+---
+
+<!-- Section 1: Lab Introduction & Research Areas -->
+<div class="row g-5 mb-5">
+  <div class="col-md-7">
+    {{ content }}
+  </div>
+  <div class="col-md-5">
+    <object data="{{ site.github.url }}/assets/svg/areas.svg" type="image/svg+xml" width="100%" style="display: block;"></object>
+  </div>
+</div>
+
+<!-- Section 2: News -->
+<section id="news" class="row g-5 mb-5">
+  <div class="col-md-12">
+    <h2 class="fw-bold border-bottom pb-3 mb-4">News</h2>
+    {% for item in site.data.news.news limit:5 %}
+      <div class="news-item mb-3">
+        <span class="badge bg-secondary">{{ item.date }}</span>
+        <a href="{{ site.github.url }}{{ item.link }}">{{ item.title }}</a>
+      </div>
+    {% endfor %}
+    <a href="{{ site.github.url }}/news/" class="important-link">Read more »</a>
+  </div>
+</section>
+
+<!-- Section 3: Publications -->
+<section id="publications" class="row g-5 mb-5">
+  <div class="col-md-12">
+    <h2 class="fw-bold border-bottom pb-3 mb-4">Publications</h2>
+    {% for pub in site.data.publications.index limit:3 %}
+      <div class="pub-item mb-4">
+        {% if pub.link %}
+          <h5><a href="{{ pub.link }}">{{ pub.title }}</a></h5>
+        {% else %}
+          <h5><a href="{{ site.github.url }}/publications/{{ pub.id }}/">{{ pub.title }}</a></h5>
+        {% endif %}
+        {% if pub.award %}<span class="badge bg-warning text-dark">{{ pub.award }}</span>{% endif %}
+        <p class="text-muted small mb-2">{{ pub.authors | join: ", " }} &mdash; {{ pub.venue }} ({{ pub.year }})</p>
+        <div class="d-flex gap-2">
+          {% if pub.pdf %}
+            <a href="{{ pub.pdf }}" class="btn btn-sm btn-outline-secondary">PDF</a>
+          {% endif %}
+          {% if pub.code %}
+            <a href="{{ pub.code }}" class="btn btn-sm btn-outline-secondary">Code</a>
+          {% endif %}
+        </div>
+      </div>
+    {% endfor %}
+    <a href="{{ site.github.url }}/publications/" class="important-link">Read more »</a>
+  </div>
+</section>
+
+<!-- Section 4: Blog Posts -->
+<section id="blogs" class="row g-5 mb-5">
+  <div class="col-md-12">
+    <h2 class="fw-bold border-bottom pb-3 mb-4">Blog Posts</h2>
+    {% for post in site.posts limit:3 %}
+      <div class="blog-item mb-4">
+        <h5><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></h5>
+        <p class="text-muted small mb-2">{{ post.date | date: "%B %d, %Y" }}</p>
+        {{ post.excerpt }}
+      </div>
+    {% endfor %}
+    <a href="{{ site.github.url }}/blog/" class="important-link">Read more »</a>
+  </div>
+</section>
+
+<!-- Section 5: Talks -->
+<section id="talks" class="row g-5 mb-5">
+  <div class="col-md-12">
+    <h2 class="fw-bold border-bottom pb-3 mb-4">Talks</h2>
+    {% assign recent_talk = site.data.talks.talks | first %}
+    {% if recent_talk %}
+    <div class="talk-item mb-4">
+      <h3 class="mb-1">{{ recent_talk.title }}</h3>
+      <p class="text-muted small mb-2">
+        <span class="badge bg-secondary me-2">{{ recent_talk.date }}</span>
+        {% if recent_talk.location %}{{ recent_talk.location }}{% endif %}
+      </p>
+
+      {% if recent_talk.abstract %}
+      <div class="mb-3">
+        <h5 class="fw-bold mb-2">Abstract</h5>
+        <p>{{ recent_talk.abstract }}</p>
+      </div>
+      {% endif %}
+
+      {% if recent_talk.speaker_bio %}
+      <div class="mb-3">
+        <h5 class="fw-bold mb-2">Speaker Bio</h5>
+        <p>{{ recent_talk.speaker_bio }}</p>
+      </div>
+      {% endif %}
+
+      {% if recent_talk.homepage %}
+      <p class="mt-2">
+        <a href="{{ recent_talk.homepage }}" target="_blank" rel="noopener" class="important-link">
+          Speaker Homepage »
+        </a>
+      </p>
+      {% endif %}
+    </div>
+    {% endif %}
+    <a href="{{ site.github.url }}/talks/" class="important-link">Read more »</a>
+  </div>
+</section>

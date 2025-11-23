@@ -1,0 +1,12 @@
+menu:
+- {name: 'People', url: '/people'}
+- {name: 'Publications', url: '/publications'}
+- {name: 'Talks', url: '/talks'}
+- {name: 'News', url: '/news'}
+- {name: 'Blog', url: '/blog'}
+
+social:
+- {icon: 'github', link: 'https://github.com/uw-syfi'}
+# - {icon: 'twitter', link: 'https://twitter.com/paululele'}
+# - {icon: 'instagram', link: 'https://instagram.com/paululele'}
+# - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}

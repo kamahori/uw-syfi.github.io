@@ -1,0 +1,679 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+  fill-rule="evenodd" fill="none" stroke="none" stroke-linecap="square" stroke-miterlimit="10"
+  overflow="hidden" viewBox="6858 42291 237363 229743">
+  <rect fill="#1a73e8" fill-opacity="0" width="100%" height="100%"></rect>
+  <g transform="translate(6858 42291) scale(1.0500681304046815)">
+    <defs cursor="default"></defs>
+    <g id="editor-g3a4adb62389_0_71">
+      <path fill="#fff" fill-opacity="1" d="M 0 0 L 226771 0 226771 219456 0 219456 Z"></path>
+      <g id="editor-g3a4adb62389_0_71-bg">
+        <g>
+          <g>
+            <path fill="#FFFFFF" fill-opacity="1" d="M 0 0 L 226771 0 226771 219456 0 219456 Z"></path>
+          </g>
+        </g>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_54">
+        <g>
+          <g></g>
+          <g>
+            <path fill="#CFE2F3" fill-opacity="0.5"
+              d="M 80874.9467 138024.9971 C 80874.9467 97813.14446481994 113473.09406481992 65214.9971 153684.94669999997 65214.99709999999 172995.35932521717 65214.99709999999 191514.8677233911 72886.02864700605 205169.3914381925 86540.55236180745 218823.91515299393 100195.07607660885 226494.9467 118714.5844747828 226494.9467 138024.99709999998 226494.9467 178236.84973518006 193896.79933518008 210834.9971 153684.94670000003 210834.9971 113473.09406481995 210834.9971 80874.94670000001 178236.8497351801 80874.9467 138024.9971 Z"></path>
+          </g>
+        </g>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_55">
+        <g>
+          <g></g>
+          <g>
+            <path fill="#F4CCCC" fill-opacity="0.5"
+              d="M 32268.4658 81430.561 C 32268.4658 41218.70836481993 64866.61316481992 8620.561 105078.46579999999 8620.56099999999 124388.87842521718 8620.56099999999 142908.3868233911 16291.592547006057 156562.91053819252 29946.116261807452 170217.43425299393 43600.63997660886 177888.4658 62120.148374782795 177888.4658 81430.56099999999 177888.4658 121642.41363518006 145290.3184351801 154240.561 105078.46580000002 154240.561 64866.61316481995 154240.561 32268.46580000001 121642.41363518008 32268.4658 81430.56100000002 Z"></path>
+          </g>
+        </g>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_56">
+        <g>
+          <g></g>
+          <g>
+            <path fill="#FFF2CC" fill-opacity="0.5"
+              d="M 276.5 122784.99710000001 C 276.5 82573.14446481994 32874.64736481992 49974.9971 73086.49999999999 49974.99709999999 92396.91262521717 49974.99709999999 110916.42102339111 57646.02864700606 124570.94473819253 71300.55236180745 138225.46845299393 84955.07607660885 145896.5 103474.5844747828 145896.5 122784.99709999998 145896.5 162996.84973518006 113298.35263518008 195594.9971 73086.50000000001 195594.9971 32874.647364819946 195594.9971 276.5000000000088 162996.8497351801 276.5 122784.99710000001 Z"></path>
+          </g>
+        </g>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_57">
+        <g>
+          <g></g>
+          <g>
+            <path d="M 62562.5 12860 L 147594.5 12860 147594.5 41012 62562.5 41012 Z"></path>
+          </g>
+          <g>
+            <path fill="#000" fill-opacity="0" stroke="#000" stroke-opacity="0"
+              stroke-width="3628.3359999999993" stroke-linecap="round" stroke-linejoin="round"
+              stroke-miterlimit="10" pointer-events="visiblePainted"
+              d="M 62562.5 12860 L 147594.5 12860 147594.5 41012 62562.5 41012 Z"></path>
+          </g>
+          <g>
+            <g direction="ltr" style="opacity: 1;">
+              <g transform="matrix(380.99999999999994,0,0,381,66219.5,16517)">
+                <g pointer-events="none">
+                  <g id="editor-g3a7d1d71bfb_0_57-paragraph-0">
+                    <g>
+                      <g class="sketchy-text-background" visibility="visible"></g>
+                      <g></g>
+                      <g class="sketchy-text-content" visibility="visible">
+                        <g class="sketchy-text-content-text" transform="translate(0 23.04)">
+                          <text
+                            style="font-family:Arial;font-size:24px;fill:#595959;white-space:pre;"
+                            text-rendering="geometricPrecision" x="45.96087598425197">Flexible</text>
+                          <text
+                            style="font-family:Arial;font-size:24px;fill:#595959;white-space:pre;"
+                            text-rendering="geometricPrecision" x="135.33587598425197">AI</text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 0; animation-name: none;"></rect>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 1; animation-name: none;"></rect>
+              </g>
+              <g>
+                <path
+                  d="M 83730.59375 16517 L 126426.40625 16517 126426.40625 27489.8 83730.59375 27489.8 Z"
+                  pointer-events="visiblePainted" fill="#000000" stroke="#000000" opacity="0"></path>
+              </g>
+              <g transform="matrix(380.99999999999994,0,0,381,66219.5,16517)"></g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_58">
+        <g>
+          <g></g>
+          <g>
+            <path d="M 22548.5 165966 L 107580.5 165966 107580.5 194118 22548.5 194118 Z"></path>
+          </g>
+          <g>
+            <path fill="#000" fill-opacity="0" stroke="#000" stroke-opacity="0"
+              stroke-width="3628.3359999999993" stroke-linecap="round" stroke-linejoin="round"
+              stroke-miterlimit="10" pointer-events="visiblePainted"
+              d="M 22548.5 165966 L 107580.5 165966 107580.5 194118 22548.5 194118 Z"></path>
+          </g>
+          <g>
+            <g direction="ltr" style="opacity: 1;">
+              <g transform="matrix(380.99999999999994,0,0,381,26205.5,169623)">
+                <g pointer-events="none">
+                  <g id="editor-g3a7d1d71bfb_0_58-paragraph-0">
+                    <g>
+                      <g class="sketchy-text-background" visibility="visible"></g>
+                      <g></g>
+                      <g class="sketchy-text-content" visibility="visible">
+                        <g class="sketchy-text-content-text" transform="translate(0 23.04)">
+                          <text
+                            style="font-family:Arial;font-size:24px;fill:#595959;white-space:pre;"
+                            text-rendering="geometricPrecision" x="44.84368848425197">Efficient</text>
+                          <text
+                            style="font-family:Arial;font-size:24px;fill:#595959;white-space:pre;"
+                            text-rendering="geometricPrecision" x="136.45306348425197">AI</text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 0; animation-name: none;"></rect>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 1; animation-name: none;"></rect>
+              </g>
+              <g>
+                <path
+                  d="M 43290.9453125 169623 L 86838.0546875 169623 86838.0546875 180595.8 43290.9453125 180595.8 Z"
+                  pointer-events="visiblePainted" fill="#000000" stroke="#000000" opacity="0"></path>
+              </g>
+              <g transform="matrix(380.99999999999994,0,0,381,26205.5,169623)"></g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_59">
+        <g>
+          <g></g>
+          <g>
+            <path d="M 135552.5 165966 L 220584.5 165966 220584.5 194118 135552.5 194118 Z"></path>
+          </g>
+          <g>
+            <path fill="#000" fill-opacity="0" stroke="#000" stroke-opacity="0"
+              stroke-width="3628.3359999999993" stroke-linecap="round" stroke-linejoin="round"
+              stroke-miterlimit="10" pointer-events="visiblePainted"
+              d="M 135552.5 165966 L 220584.5 165966 220584.5 194118 135552.5 194118 Z"></path>
+          </g>
+          <g>
+            <g direction="ltr" style="opacity: 1;">
+              <g transform="matrix(380.99999999999994,0,0,381,139209.5,169623)">
+                <g pointer-events="none">
+                  <g id="editor-g3a7d1d71bfb_0_59-paragraph-0">
+                    <g>
+                      <g class="sketchy-text-background" visibility="visible"></g>
+                      <g></g>
+                      <g class="sketchy-text-content" visibility="visible">
+                        <g class="sketchy-text-content-text" transform="translate(0 23.04)">
+                          <text
+                            style="font-family:Arial;font-size:24px;fill:#595959;white-space:pre;"
+                            text-rendering="geometricPrecision" x="41.28900098425197">Resilient</text>
+                          <text
+                            style="font-family:Arial;font-size:24px;fill:#595959;white-space:pre;"
+                            text-rendering="geometricPrecision" x="140.00775098425197">AI</text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 0; animation-name: none;"></rect>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 1; animation-name: none;"></rect>
+              </g>
+              <g>
+                <path
+                  d="M 154940.609375 169623 L 201196.390625 169623 201196.390625 180595.8 154940.609375 180595.8 Z"
+                  pointer-events="visiblePainted" fill="#000000" stroke="#000000" opacity="0"></path>
+              </g>
+              <g transform="matrix(380.99999999999994,0,0,381,139209.5,169623)"></g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_60">
+        <a xlink:href="/publications/RayData" target="_top">
+        <g>
+          <g>
+            <path fill="#FFFFFF" fill-opacity="1" stroke="#595959" stroke-opacity="1"
+              stroke-width="381" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="8"
+              d="M 103684.5 83859 L 150520.5 83859 150520.5 94179 103684.5 94179 Z"></path>
+          </g>
+          <g>
+            <g direction="ltr" style="opacity: 1;">
+              <g transform="matrix(381,0,0,381,107341.5,84828)">
+                <g pointer-events="none">
+                  <g id="editor-g3a7d1d71bfb_0_60-paragraph-0">
+                    <g>
+                      <g class="sketchy-text-background" visibility="visible"></g>
+                      <g></g>
+                      <g class="sketchy-text-content" visibility="visible">
+                        <g class="sketchy-text-content-text"
+                          transform="translate(0 17.919999999999998)">
+                          <text
+                            style="font-family:Arial;font-size:18.666666666666664px;fill:#000000;white-space:pre;"
+                            text-rendering="geometricPrecision" x="12.96770423228346">Ray</text>
+                          <text
+                            style="font-family:Arial;font-size:18.666666666666664px;fill:#000000;white-space:pre;"
+                            text-rendering="geometricPrecision" x="51.34270423228346">Data</text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 0; animation-name: none;"></rect>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 1; animation-name: none;"></rect>
+              </g>
+              <g>
+                <path
+                  d="M 112282.1953125 84828 L 141922.8046875 84828 141922.8046875 93362.4 112282.1953125 93362.4 Z"
+                  pointer-events="visiblePainted" fill="#000000" stroke="#000000" opacity="0"></path>
+              </g>
+              <g transform="matrix(381,0,0,381,107341.5,84828)"></g>
+            </g>
+          </g>
+        </g>
+        </a>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_61">
+        <a xlink:href="/publications/Argos" target="_top">
+        <g>
+          <g>
+            <path fill="#FFFFFF" fill-opacity="1" stroke="#595959" stroke-opacity="1"
+              stroke-width="381" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="8"
+              d="M 171115.5 150071 L 217951.5 150071 217951.5 160391 171115.5 160391 Z"></path>
+          </g>
+          <g>
+            <g direction="ltr" style="opacity: 1;">
+              <g transform="matrix(381,0,0,381,174772.5,151040)">
+                <g pointer-events="none">
+                  <g id="editor-g3a7d1d71bfb_0_61-paragraph-0">
+                    <g>
+                      <g class="sketchy-text-background" visibility="visible"></g>
+                      <g></g>
+                      <g class="sketchy-text-content" visibility="visible">
+                        <g class="sketchy-text-content-text"
+                          transform="translate(0 17.919999999999998)">
+                          <text
+                            style="font-family:Arial;font-size:18.666666666666664px;fill:#000000;white-space:pre;"
+                            text-rendering="geometricPrecision" x="27.49114173228346">Argos</text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 0; animation-name: none;"></rect>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 1; animation-name: none;"></rect>
+              </g>
+              <g>
+                <path
+                  d="M 185246.625 151040 L 203820.375 151040 203820.375 159574.4 185246.625 159574.4 Z"
+                  pointer-events="visiblePainted" fill="#000000" stroke="#000000" opacity="0"></path>
+              </g>
+              <g transform="matrix(381,0,0,381,174772.5,151040)"></g>
+            </g>
+          </g>
+        </g>
+        </a>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_62">
+        <a xlink:href="/publications/GigiProfiler" target="_top">
+        <g>
+          <g>
+            <path fill="#FFFFFF" fill-opacity="1" stroke="#595959" stroke-opacity="1"
+              stroke-width="381" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="8"
+              d="M 102108.5 139701 L 148944.5 139701 148944.5 150021 102108.5 150021 Z"></path>
+          </g>
+          <g>
+            <g direction="ltr" style="opacity: 1;">
+              <g transform="matrix(381,0,0,381,105765.5,140670)">
+                <g pointer-events="none">
+                  <g id="editor-g3a7d1d71bfb_0_62-paragraph-0">
+                    <g>
+                      <g class="sketchy-text-background" visibility="visible"></g>
+                      <g></g>
+                      <g class="sketchy-text-content" visibility="visible">
+                        <g class="sketchy-text-content-text"
+                          transform="translate(0 17.919999999999998)">
+                          <text
+                            style="font-family:Arial;font-size:18.666666666666664px;fill:#000000;white-space:pre;"
+                            text-rendering="geometricPrecision" x="5.7177042322834595">GigiProfiler</text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 0; animation-name: none;"></rect>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 1; animation-name: none;"></rect>
+              </g>
+              <g>
+                <path
+                  d="M 107943.9453125 140670 L 143109.0546875 140670 143109.0546875 149204.4 107943.9453125 149204.4 Z"
+                  pointer-events="visiblePainted" fill="#000000" stroke="#000000" opacity="0"></path>
+              </g>
+              <g transform="matrix(381,0,0,381,105765.5,140670)"></g>
+            </g>
+          </g>
+        </g>
+        </a>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_63">
+        <a xlink:href="/publications/Magneton" target="_top">
+        <g>
+          <g>
+            <path fill="#FFFFFF" fill-opacity="1" stroke="#595959" stroke-opacity="1"
+              stroke-width="381" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="8"
+              d="M 102108.5 151893 L 148944.5 151893 148944.5 162213 102108.5 162213 Z"></path>
+          </g>
+          <g>
+            <g direction="ltr" style="opacity: 1;">
+              <g transform="matrix(381,0,0,381,105765.5,152862)">
+                <g pointer-events="none">
+                  <g id="editor-g3a7d1d71bfb_0_63-paragraph-0">
+                    <g>
+                      <g class="sketchy-text-background" visibility="visible"></g>
+                      <g></g>
+                      <g class="sketchy-text-content" visibility="visible">
+                        <g class="sketchy-text-content-text"
+                          transform="translate(0 17.919999999999998)">
+                          <text
+                            style="font-family:Arial;font-size:18.666666666666664px;fill:#000000;white-space:pre;"
+                            text-rendering="geometricPrecision" x="10.36614173228346">Magneton</text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 0; animation-name: none;"></rect>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 1; animation-name: none;"></rect>
+              </g>
+              <g>
+                <path d="M 109715 152862 L 141338 152862 141338 161396.4 109715 161396.4 Z"
+                  pointer-events="visiblePainted" fill="#000000" stroke="#000000" opacity="0"></path>
+              </g>
+              <g transform="matrix(381,0,0,381,105765.5,152862)"></g>
+            </g>
+          </g>
+        </g>
+        </a>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_64">
+        <a xlink:href="/publications/Piper" target="_top">
+        <g>
+          <g>
+            <path fill="#FFFFFF" fill-opacity="1" stroke="#595959" stroke-opacity="1"
+              stroke-width="381" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="8"
+              d="M 103684.5 95361 L 150520.5 95361 150520.5 105681 103684.5 105681 Z"></path>
+          </g>
+          <g>
+            <g direction="ltr" style="opacity: 1;">
+              <g transform="matrix(381,0,0,381,107341.5,96330)">
+                <g pointer-events="none">
+                  <g id="editor-g3a7d1d71bfb_0_64-paragraph-0">
+                    <g>
+                      <g class="sketchy-text-background" visibility="visible"></g>
+                      <g></g>
+                      <g class="sketchy-text-content" visibility="visible">
+                        <g class="sketchy-text-content-text"
+                          transform="translate(0 17.919999999999998)">
+                          <text
+                            style="font-family:Arial;font-size:18.666666666666664px;fill:#000000;white-space:pre;"
+                            text-rendering="geometricPrecision" x="30.08489173228346">Piper</text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 0; animation-name: none;"></rect>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 1; animation-name: none;"></rect>
+              </g>
+              <g>
+                <path
+                  d="M 118803.84375 96330 L 135401.15625 96330 135401.15625 104864.4 118803.84375 104864.4 Z"
+                  pointer-events="visiblePainted" fill="#000000" stroke="#000000" opacity="0"></path>
+              </g>
+              <g transform="matrix(381,0,0,381,107341.5,96330)"></g>
+            </g>
+          </g>
+        </g>
+        </a>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_65">
+        <a xlink:href="/publications/Nanoflow" target="_top">
+        <g>
+          <g>
+            <path fill="#FFFFFF" fill-opacity="1" stroke="#595959" stroke-opacity="1"
+              stroke-width="381" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="8"
+              d="M 60744.8415 123627 L 107580.84150000001 123627 107580.84150000001 133947 60744.8415 133947 Z"></path>
+          </g>
+          <g>
+            <g direction="ltr" style="opacity: 1;">
+              <g transform="matrix(381,0,0,381,64401.8415,124596)">
+                <g pointer-events="none">
+                  <g id="editor-g3a7d1d71bfb_0_65-paragraph-0">
+                    <g>
+                      <g class="sketchy-text-background" visibility="visible"></g>
+                      <g></g>
+                      <g class="sketchy-text-content" visibility="visible">
+                        <g class="sketchy-text-content-text"
+                          transform="translate(0 17.919999999999998)">
+                          <text
+                            style="font-family:Arial;font-size:18.666666666666664px;fill:#000000;white-space:pre;"
+                            text-rendering="geometricPrecision" x="12.967704232283474">Nanoflow</text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 0; animation-name: none;"></rect>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 1; animation-name: none;"></rect>
+              </g>
+              <g>
+                <path
+                  d="M 69342.5368125 124596 L 98983.14618750001 124596 98983.14618750001 133130.4 69342.5368125 133130.4 Z"
+                  pointer-events="visiblePainted" fill="#000000" stroke="#000000" opacity="0"></path>
+              </g>
+              <g transform="matrix(381,0,0,381,64401.8415,124596)"></g>
+            </g>
+          </g>
+        </g>
+        </a>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_66">
+        <a xlink:href="/publications/SchedFlow" target="_top">
+        <g>
+          <g>
+            <path fill="#FFFFFF" fill-opacity="1" stroke="#595959" stroke-opacity="1"
+              stroke-width="381" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="8"
+              d="M 60744.8415 72445 L 107580.84150000001 72445 107580.84150000001 82765 60744.8415 82765 Z"></path>
+          </g>
+          <g>
+            <g direction="ltr" style="opacity: 1;">
+              <g transform="matrix(380.99999999999994,0,0,380.99999999999943,64401.8415,73414)">
+                <g pointer-events="none">
+                  <g id="editor-g3a7d1d71bfb_0_66-paragraph-0">
+                    <g>
+                      <g class="sketchy-text-background" visibility="visible"></g>
+                      <g></g>
+                      <g class="sketchy-text-content" visibility="visible">
+                        <g class="sketchy-text-content-text"
+                          transform="translate(0 17.919999999999998)">
+                          <text
+                            style="font-family:Arial;font-size:18.666666666666664px;fill:#000000;white-space:pre;"
+                            text-rendering="geometricPrecision" x="5.709891732283474">SchedFlow</text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 0; animation-name: none;"></rect>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 1; animation-name: none;"></rect>
+              </g>
+              <g>
+                <path
+                  d="M 66577.31025 73414 L 101748.37275 73414 101748.37275 81948.39999999998 66577.31025 81948.39999999998 Z"
+                  pointer-events="visiblePainted" fill="#000000" stroke="#000000" opacity="0"></path>
+              </g>
+              <g transform="matrix(380.99999999999994,0,0,380.99999999999943,64401.8415,73414)"></g>
+            </g>
+          </g>
+        </g>
+        </a>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_67">
+        <a xlink:href="/publications/FlashInfer" target="_top">
+        <g>
+          <g>
+            <path fill="#FFFFFF" fill-opacity="1" stroke="#595959" stroke-opacity="1"
+              stroke-width="381" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="8"
+              d="M 60744.8415 60253 L 107580.84150000001 60253 107580.84150000001 70573 60744.8415 70573 Z"></path>
+          </g>
+          <g>
+            <g direction="ltr" style="opacity: 1;">
+              <g
+                transform="matrix(380.99999999999994,0,0,380.99999999999943,64401.8415,61222.00000000001)">
+                <g pointer-events="none">
+                  <g id="editor-g3a7d1d71bfb_0_67-paragraph-0">
+                    <g>
+                      <g class="sketchy-text-background" visibility="visible"></g>
+                      <g></g>
+                      <g class="sketchy-text-content" visibility="visible">
+                        <g class="sketchy-text-content-text"
+                          transform="translate(0 17.919999999999998)">
+                          <text
+                            style="font-family:Arial;font-size:18.666666666666664px;fill:#000000;white-space:pre;"
+                            text-rendering="geometricPrecision" x="10.381766732283474">FlashInfer</text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 0; animation-name: none;"></rect>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 1; animation-name: none;"></rect>
+              </g>
+              <g>
+                <path
+                  d="M 68357.294625 61222.00000000001 L 99968.388375 61222.00000000001 99968.388375 69756.4 68357.294625 69756.4 Z"
+                  pointer-events="visiblePainted" fill="#000000" stroke="#000000" opacity="0"></path>
+              </g>
+              <g
+                transform="matrix(380.99999999999994,0,0,380.99999999999943,64401.8415,61222.00000000001)"></g>
+            </g>
+          </g>
+        </g>
+        </a>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_68">
+        <a xlink:href="/publications/TeleRAG" target="_top">
+        <g>
+          <g>
+            <path fill="#FFFFFF" fill-opacity="1" stroke="#595959" stroke-opacity="1"
+              stroke-width="381" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="8"
+              d="M 18091.8415 137548.5 L 64927.841499999995 137548.5 64927.841499999995 147868.5 18091.8415 147868.5 Z"></path>
+          </g>
+          <g>
+            <g direction="ltr" style="opacity: 1;">
+              <g transform="matrix(381,0,0,381,21748.8415,138517.5)">
+                <g pointer-events="none">
+                  <g id="editor-g3a7d1d71bfb_0_68-paragraph-0">
+                    <g>
+                      <g class="sketchy-text-background" visibility="visible"></g>
+                      <g></g>
+                      <g class="sketchy-text-content" visibility="visible">
+                        <g class="sketchy-text-content-text"
+                          transform="translate(0 17.919999999999998)">
+                          <text
+                            style="font-family:Arial;font-size:18.666666666666664px;fill:#000000;white-space:pre;"
+                            text-rendering="geometricPrecision" x="14.53020423228346">TeleRAG</text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 0; animation-name: none;"></rect>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 1; animation-name: none;"></rect>
+              </g>
+              <g>
+                <path
+                  d="M 27284.849312499995 138517.5 L 55734.833687499995 138517.5 55734.833687499995 147051.9 27284.849312499995 147051.9 Z"
+                  pointer-events="visiblePainted" fill="#000000" stroke="#000000" opacity="0"></path>
+              </g>
+              <g transform="matrix(381,0,0,381,21748.8415,138517.5)"></g>
+            </g>
+          </g>
+        </g>
+        </a>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_69">
+        <a xlink:href="/publications/Fiddler" target="_top">
+        <g>
+          <g>
+            <path fill="#FFFFFF" fill-opacity="1" stroke="#595959" stroke-opacity="1"
+              stroke-width="381" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="8"
+              d="M 18091.8415 151757 L 64927.841499999995 151757 64927.841499999995 162077 18091.8415 162077 Z"></path>
+          </g>
+          <g>
+            <g direction="ltr" style="opacity: 1;">
+              <g transform="matrix(381,0,0,381,21748.8415,152726)">
+                <g pointer-events="none">
+                  <g id="editor-g3a7d1d71bfb_0_69-paragraph-0">
+                    <g>
+                      <g class="sketchy-text-background" visibility="visible"></g>
+                      <g></g>
+                      <g class="sketchy-text-content" visibility="visible">
+                        <g class="sketchy-text-content-text"
+                          transform="translate(0 17.919999999999998)">
+                          <text
+                            style="font-family:Arial;font-size:18.666666666666664px;fill:#000000;white-space:pre;"
+                            text-rendering="geometricPrecision" x="23.34270423228346">Fiddler</text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 0; animation-name: none;"></rect>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 1; animation-name: none;"></rect>
+              </g>
+              <g>
+                <path
+                  d="M 30642.411812499995 152726 L 52377.271187499995 152726 52377.271187499995 161260.4 30642.411812499995 161260.4 Z"
+                  pointer-events="visiblePainted" fill="#000000" stroke="#000000" opacity="0"></path>
+              </g>
+              <g transform="matrix(381,0,0,381,21748.8415,152726)"></g>
+            </g>
+          </g>
+        </g>
+        </a>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_70">
+        <a xlink:href="/publications/Tactic" target="_top">
+        <g>
+          <g>
+            <path fill="#FFFFFF" fill-opacity="1" stroke="#595959" stroke-opacity="1"
+              stroke-width="381" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="8"
+              d="M 7181.8415 123341 L 54017.8415 123341 54017.8415 133661 7181.8415 133661 Z"></path>
+          </g>
+          <g>
+            <g direction="ltr" style="opacity: 1;">
+              <g transform="matrix(381,0,0,381,10838.8415,124310)">
+                <g pointer-events="none">
+                  <g id="editor-g3a7d1d71bfb_0_70-paragraph-0">
+                    <g>
+                      <g class="sketchy-text-background" visibility="visible"></g>
+                      <g></g>
+                      <g class="sketchy-text-content" visibility="visible">
+                        <g class="sketchy-text-content-text"
+                          transform="translate(0 17.919999999999998)">
+                          <text
+                            style="font-family:Arial;font-size:18.666666666666664px;fill:#000000;white-space:pre;"
+                            text-rendering="geometricPrecision" x="28.01457923228346">Tactic</text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 0; animation-name: none;"></rect>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 1; animation-name: none;"></rect>
+              </g>
+              <g>
+                <path
+                  d="M 21512.3961875 124310 L 39687.2868125 124310 39687.2868125 132844.4 21512.3961875 132844.4 Z"
+                  pointer-events="visiblePainted" fill="#000000" stroke="#000000" opacity="0"></path>
+              </g>
+              <g transform="matrix(381,0,0,381,10838.8415,124310)"></g>
+            </g>
+          </g>
+        </g>
+        </a>
+      </g>
+      <g id="editor-g3a7d1d71bfb_0_71">
+        <a xlink:href="/publications/Atom" target="_top">
+        <g>
+          <g>
+            <path fill="#FFFFFF" fill-opacity="1" stroke="#595959" stroke-opacity="1"
+              stroke-width="381" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="8"
+              d="M 7181.8415 109133 L 54017.8415 109133 54017.8415 119453 7181.8415 119453 Z"></path>
+          </g>
+          <g>
+            <g direction="ltr" style="opacity: 1;">
+              <g transform="matrix(381,0,0,381,10838.8415,110102)">
+                <g pointer-events="none">
+                  <g id="editor-g3a7d1d71bfb_0_71-paragraph-0">
+                    <g>
+                      <g class="sketchy-text-background" visibility="visible"></g>
+                      <g></g>
+                      <g class="sketchy-text-content" visibility="visible">
+                        <g class="sketchy-text-content-text"
+                          transform="translate(0 17.919999999999998)">
+                          <text
+                            style="font-family:Arial;font-size:18.666666666666664px;fill:#000000;white-space:pre;"
+                            text-rendering="geometricPrecision" x="30.08489173228346">Atom</text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 0; animation-name: none;"></rect>
+                <rect class="docs-text-ui-cursor-blink" style="opacity: 1; animation-name: none;"></rect>
+              </g>
+              <g>
+                <path
+                  d="M 22301.18525 110102 L 38898.49775 110102 38898.49775 118636.4 22301.18525 118636.4 Z"
+                  pointer-events="visiblePainted" fill="#000000" stroke="#000000" opacity="0"></path>
+              </g>
+              <g transform="matrix(381,0,0,381,10838.8415,110102)"></g>
+            </g>
+          </g>
+        </g>
+        </a>
+      </g>
+    </g>
+  </g>
+</svg>
