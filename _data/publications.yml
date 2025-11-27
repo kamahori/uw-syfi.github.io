@@ -20,6 +20,7 @@ index:
     venue: "Practical Adoption Challenges of ML for Systems (PACMI)"
     year: 2025
     topics: ["Distributed Training"]
+    link: "https://syfi.cs.washington.edu/publications/piper/"
     pdf: "https://dl.acm.org/doi/10.1145/3766882.3767187"
 
   - id: "liteasr"
@@ -28,6 +29,7 @@ index:
     venue: "Conference on Empirical Methods in Natural Language Processing (EMNLP)"
     year: 2025
     topics: ["Efficient ML"]
+    link: "https://syfi.cs.washington.edu/publications/liteasr/"
     pdf: "https://arxiv.org/abs/2502.20583"
     code: "https://github.com/efeslab/LiteASR"
 
@@ -48,6 +50,7 @@ index:
     venue: "arXiv preprint"
     year: 2025
     topics: ["LLM Serving"]
+    link: "https://syfi.cs.washington.edu/publications/telerag/"
     pdf: "https://arxiv.org/pdf/2502.20969"
 
   - id: "tactic"
@@ -74,6 +77,7 @@ index:
     topics: ["LLM Serving"]
     pdf: "https://arxiv.org/abs/2408.12757v1"
     code: "https://github.com/efeslab/Nanoflow"
+    link: "https://syfi.cs.washington.edu/publications/nanoflow/"
 
   - id: "mlsystemsextensibility"
     title: "Towards ML System Extensibility"
@@ -91,6 +95,7 @@ index:
     topics: ["LLM Serving"]
     pdf: "https://arxiv.org/pdf/2402.07033"
     code: "https://github.com/efeslab/fiddler"
+    link: "https://syfi.cs.washington.edu/publications/fiddler/"
 
   - id: "datacomplm"
     title: "Datacomp-LM: In search of the next generation of training sets for language models"
@@ -108,6 +113,7 @@ index:
     topics: ["LLM Serving"]
     pdf: "https://arxiv.org/pdf/2406.10774"
     code: "https://github.com/mit-han-lab/Quest"
+    link: "https://syfi.cs.washington.edu/publications/quest/"
 
   - id: "atom"
     title: "Atom: Low-bit Quantization for Efficient and Accurate LLM Serving"
@@ -117,3 +123,4 @@ index:
     topics: ["LLM Serving"]
     pdf: "https://arxiv.org/pdf/2310.19102"
     code: "https://github.com/efeslab/Atom"
+    link: "https://syfi.cs.washington.edu/publications/atom/"
